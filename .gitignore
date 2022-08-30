@@ -1,2 +1,10 @@
 /main
 /build/
+/metal-cpp/.DS_Store
+metal-cpp-test.xcodeproj/
+cmake-build-*
+.DS_Store
+*.air
+*.metallib
+.idea/
+*.bak
